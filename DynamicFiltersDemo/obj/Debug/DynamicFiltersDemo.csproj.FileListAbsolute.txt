@@ -1,0 +1,12 @@
+E:\Fenix\MyDemos\DynamicFiltersDemo\DynamicFiltersDemo\bin\Debug\DynamicFiltersDemo.exe.config
+E:\Fenix\MyDemos\DynamicFiltersDemo\DynamicFiltersDemo\bin\Debug\DynamicFiltersDemo.exe
+E:\Fenix\MyDemos\DynamicFiltersDemo\DynamicFiltersDemo\bin\Debug\DynamicFiltersDemo.pdb
+E:\Fenix\MyDemos\DynamicFiltersDemo\DynamicFiltersDemo\bin\Debug\EntityFramework.dll
+E:\Fenix\MyDemos\DynamicFiltersDemo\DynamicFiltersDemo\bin\Debug\EntityFramework.DynamicFilters.dll
+E:\Fenix\MyDemos\DynamicFiltersDemo\DynamicFiltersDemo\bin\Debug\EntityFramework.SqlServer.dll
+E:\Fenix\MyDemos\DynamicFiltersDemo\DynamicFiltersDemo\bin\Debug\EntityFramework.xml
+E:\Fenix\MyDemos\DynamicFiltersDemo\DynamicFiltersDemo\bin\Debug\EntityFramework.DynamicFilters.xml
+E:\Fenix\MyDemos\DynamicFiltersDemo\DynamicFiltersDemo\bin\Debug\EntityFramework.SqlServer.xml
+E:\Fenix\MyDemos\DynamicFiltersDemo\DynamicFiltersDemo\obj\Debug\DynamicFiltersDemo.csprojResolveAssemblyReference.cache
+E:\Fenix\MyDemos\DynamicFiltersDemo\DynamicFiltersDemo\obj\Debug\DynamicFiltersDemo.exe
+E:\Fenix\MyDemos\DynamicFiltersDemo\DynamicFiltersDemo\obj\Debug\DynamicFiltersDemo.pdb
